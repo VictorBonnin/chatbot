@@ -1,0 +1,5 @@
+démarrer l'API
+uvicorn twitter_api:app --reload
+
+démarrer streamlit
+streamlit run .\streamlit.py 

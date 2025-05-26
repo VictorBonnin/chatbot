@@ -1,0 +1,8 @@
+# Dossiers à ignorer
+french_tweets_dataset/
+data/
+tweets_old/
+
+# Fichiers à ignorer
+tp1.ipynb
+projet_consigne.txt
