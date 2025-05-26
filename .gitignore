@@ -3,6 +3,10 @@ french_tweets_dataset/
 data/
 tweets_old/
 
+models/encoder.joblib
+models/rf_model.joblib
+models/vectorizer.joblib
+
 # Fichiers à ignorer
 tp1.ipynb
 projet_consigne.txt
